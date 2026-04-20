@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d1919216906276c77bd9728879ccb85f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - vida1: {instanceID: 0}
+  - vida2: {instanceID: 0}
+  - vida3: {instanceID: 0}
+  - playerAnimator: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - hitSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
